@@ -265,6 +265,7 @@ table{
     margin-top: 100px !important;
 }
 
+
 hr{
     border: 0;
     height: 1px;
@@ -396,7 +397,10 @@ p{
 
 @media (max-width: 991px) {
     p{
-        font-size: 1.8em;
+        font-size: 2em;
+    }
+    table{
+        font-size: 2em;
     }
     .list-group-item{        
         font-size: 1.8em;
