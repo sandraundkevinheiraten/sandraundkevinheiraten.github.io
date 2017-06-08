@@ -271,7 +271,7 @@ hr{
     border: 0;
     height: 15px;
     background: #d0d0d0;
-    background-image: linear-gradient(to right, #383838, #31475c, #383838);
+    background-color: #31475c;
 }
 
 .transparent{
