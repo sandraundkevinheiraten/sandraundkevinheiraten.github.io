@@ -269,7 +269,7 @@ table{
 
 hr{
     border: 0;
-    width: 100%;
+    width: 100% !important;
     height: 15px;
     background: #d0d0d0;
     /*background-color: #31475c;
