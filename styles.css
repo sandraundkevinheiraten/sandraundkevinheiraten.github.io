@@ -263,6 +263,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#383838', end
 
 table{
     margin-top: 100px !important;
+    font-weight: 200;
 }
 
 
